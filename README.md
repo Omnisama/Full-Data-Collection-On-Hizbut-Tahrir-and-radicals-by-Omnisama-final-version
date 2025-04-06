@@ -8,10 +8,12 @@ File: Full Data Collection On Hizbut Tahrir And Radicals By Omnisama Final Versi
  
 The Main Data folder: (Please Download the whole folder) https://www.dropbox.com/scl/fo/p3x9ar9iukv0wv6bhotv3/AMNBXtopkH-svv1XD69PmiE?rlkey=7f6qncom2tmbc4a819o6qrohy&st=kkvyygjf&dl=0
 
-Important Tips : in case of a directory/file error while opening, copy paste the file into another place and it will open. 
-in case of video not opening either copypaste in another directory or switch your media player to something like Media Player Classic and vlc.
+Internet Archive Full Data on Zip file : https://archive.org/details/full-data-collection-on-hizbut-tahrir-and-radicals-by-omnisama-final-version_202504
 
 Github Archive for open access : https://github.com/Omnisama/Full-Data-Collection-On-Hizbut-Tahrir-and-radicals-by-Omnisama-final-version
+
+Important Tips : in case of a directory/file error while opening, copy paste the file into another place and it will open. 
+in case of video not opening either copypaste in another directory or switch your media player to something like Media Player Classic and vlc.
 
 Instructions for reviewing the intel:  
 1. Start by reading : "Read Me First – Must Have Comprehensive Guide" (PDF)"  to understand the full context.  
