@@ -4,9 +4,14 @@ Hey [Whomever accessing this intel],
 
 I’m sharing a zip file containing intel on Hizbut Tahrir and other jihadist movements in Bangladesh. It includes evidence of their operations, recruitment tactics, propaganda networks, and their infiltration into different sectors. The data is well-organized for easy understanding.  
 
-File: Full Data Collection On Hizbut Tahrir and radicals by Omnisama final version 
-The main intel folder: (Please download the whole folder) 
-https://www.dropbox.com/scl/fo/p3x9ar9iukv0wv6bhotv3/AMNBXtopkH-svv1XD69PmiE?rlkey=7f6qncom2tmbc4a819o6qrohy&st=kkvyygjf&dl=0
+File: Full Data Collection On Hizbut Tahrir And Radicals By Omnisama Final Version
+ 
+The Main Data folder: (Please Download the whole folder) https://www.dropbox.com/scl/fo/p3x9ar9iukv0wv6bhotv3/AMNBXtopkH-svv1XD69PmiE?rlkey=7f6qncom2tmbc4a819o6qrohy&st=kkvyygjf&dl=0
+
+Important Tips : in case of a directory/file error while opening, copy paste the file into another place and it will open. 
+in case of video not opening either copypaste in another directory or switch your media player to something like Media Player Classic and vlc.
+
+Github Archive for open access : https://github.com/Omnisama/Full-Data-Collection-On-Hizbut-Tahrir-and-radicals-by-Omnisama-final-version
 
 Instructions for reviewing the intel:  
 1. Start by reading : "Read Me First – Must Have Comprehensive Guide" (PDF)"  to understand the full context.  
